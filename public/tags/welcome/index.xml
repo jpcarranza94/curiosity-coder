@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Curiosity Coder</title>
+    <link>http://localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on Curiosity Coder</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Aug 2025 21:35:24 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World, from Curiosity Coder</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 17 Aug 2025 21:35:24 -0600</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-curiosity-coder&#34;&gt;Welcome to Curiosity Coder!&lt;/h1&gt;
+&lt;p&gt;Like the famous first program every developer writes, this is my &amp;ldquo;Hello World&amp;rdquo; to the blogging universe. But instead of just printing text to a console, I&amp;rsquo;m launching a space to explore the fascinating intersections of technology, science, and human curiosity.&lt;/p&gt;
+&lt;h2 id=&#34;why-start-this-blog&#34;&gt;Why Start This Blog?&lt;/h2&gt;
+&lt;p&gt;As a software engineer with a background in data science and medicine, I&amp;rsquo;ve always been drawn to the edges where different fields meet. These intersections are where the most interesting problems—and solutions—tend to emerge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

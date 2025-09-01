@@ -1,0 +1,58 @@
+baseURL = 'https://curiosity-coder.netlify.app/'
+languageCode = 'en-us'
+title = 'Curiosity Coder'
+theme = 'PaperMod'
+
+[params]
+author = "Juan Carranza"
+description = "A software engineer's journey through curiosity-driven exploration"
+keywords = ["AI", "data science", "software engineering", "technology", "Guatemala"]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.homeInfoParams]
+Title = "Welcome to Curiosity Coder"
+Content = "Exploring the intersection of software engineering, biology, technology, and human curiosity."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/jpcarranza94"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/juan-pablo-carranza-hurtado-89ba02187/"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Curiosity Coder</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Curiosity Coder</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Aug 2025 21:35:24 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World, from Curiosity Coder</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 17 Aug 2025 21:35:24 -0600</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-curiosity-coder&#34;&gt;Welcome to Curiosity Coder!&lt;/h1&gt;
+&lt;p&gt;Like the famous first program every developer writes, this is my &amp;ldquo;Hello World&amp;rdquo; to the blogging universe. But instead of just printing text to a console, I&amp;rsquo;m launching a space to explore the fascinating intersections of technology, science, and human curiosity.&lt;/p&gt;
+&lt;h2 id=&#34;why-start-this-blog&#34;&gt;Why Start This Blog?&lt;/h2&gt;
+&lt;p&gt;As a software engineer with a background in data science and medicine, I&amp;rsquo;ve always been drawn to the edges where different fields meet. These intersections are where the most interesting problems—and solutions—tend to emerge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 17 Aug 2025 21:35:20 -0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Hi! I&amp;rsquo;m Juan Carranza, a software engineer from Guatemala with a passion for the intersection of technology and science.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software Engineering&lt;/strong&gt;: Currently focused on AI Engineering, mainly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt;: Master&amp;rsquo;s degree in Data Science with experience in data engineering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Medical Background&lt;/strong&gt;: Also a medical doctor, bringing a unique perspective to technology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Lead Experience&lt;/strong&gt;: I have been a team lead both for a Data team, as well as a Platform team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-write-about&#34;&gt;What I Write About&lt;/h2&gt;
+&lt;p&gt;This blog explores my curiosity-driven journey through:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
