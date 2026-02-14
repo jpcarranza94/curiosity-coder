@@ -1,60 +1,37 @@
 +++
-date = '2025-08-17T21:35:24-06:00'
+date = '2026-02-14T12:00:00-06:00'
 draft = false
 title = 'Hello World, from Curiosity Coder'
-tags = ['welcome', 'introduction', 'meta']
+tags = ['welcome', 'introduction']
 categories = ['General']
 +++
 
-# Welcome to Curiosity Coder!
+# Hello World
 
-Like the famous first program every developer writes, this is my "Hello World" to the blogging universe. But instead of just printing text to a console, I'm launching a space to explore the fascinating intersections of technology, science, and human curiosity.
+This is my start into writing, I have been thinking for the last year or so that I need a creative outlet to help me push out some of my thoughts. I am nervous as I am typing these words right now, but I hope that my audience (eventual audience) can find value in some of my reflections about the technical world, AI, machine learning, biology, life as a software engineer, etc.
 
-## Why Start This Blog?
+I think humanity has never been more connected and disconnected at the same time, at the group and individual level. Loneliness levels are skyrocketing even if communication with everyone we know is at the reach of our pockets. Building communities is an inherently human aspiration. This is my attempt at doing this. I hope you can step out of your echo chambers with me.
 
-As a software engineer with a background in data science and medicine, I've always been drawn to the edges where different fields meet. These intersections are where the most interesting problems—and solutions—tend to emerge.
+## About me
 
-Whether it's:
-- How machine learning algorithms mirror biological neural networks
-- Using data science to understand space exploration data
-- The ethical implications of AI in healthcare
-- Or simply documenting cool things I discover while coding
+I am Juan, a software/AI engineer from Guatemala. I have a bit of a diverse background. I studied to become a medical doctor as an undergrad, then I decided to do a Masters degree on Data Science, which I finished back in 2022. On the work side, I never really worked as a medical doctor, right after med school (and a short job that I had as an administrator at a sleep clinic), I decided to switch my life directly to tech.
 
-This blog will be my laboratory for exploring these ideas.
+I started working as a Data Analyst, then transitioned to a Data Engineer role, and finally moved on to work on software/AI engineering primarily. I was a team lead for some time, but ultimately decided that my biggest source of enjoyment is in building new things that can help people, which is why I decided to switch back to an IC (individual contributor) role. I am thinking of this blog as one of these things that I enjoy building little by little, so I intend to keep up with it.
 
-## What to Expect
+## About this blog
 
-You can expect posts about:
+I am primarily interested in scientific/tech/software engineering/AI related topics. I enjoy leveraging my unorthodox background to connect the dots between different spaces of knowledge. I might also have versions of my posts both in English and in Spanish, so that might also be part of it.
 
-**Technical Content:**
-- AI/ML tutorials and insights
-- Data engineering best practices
-- Software development tips and tools
-- Code reviews of interesting projects
+I will try to write about complex topics in simple terms, which I hope will ultimately also consolidate my own understanding about them. Though, there might be times in which things get more nuanced. I don't want to restrict myself, but you will find a tag at the post if I consider it to be too technical.
 
-**Curiosity-Driven Exploration:**
-- Space technology and exploration
-- Biological inspiration for algorithms
-- Technology philosophy and ethics
-- Random interesting discoveries
+The percentage of AI generated content on the internet is increasing more and more. If you feel that you are already drowning in AI generated content (AI Slop as it is called now) on social media, it is bound to only get worse in the upcoming years. I am not anti-AI by any means, I use it every single day in my day to day work. Nonetheless, I think of it as a way to enhance my skills, learn new things, and explore areas that would be out of reach otherwise.
 
-**Personal Journey:**
-- Learning new technologies
-- Career insights from a multicultural perspective
-- Balancing multiple technical backgrounds
+Even with all of the above being true; I do find relief when I read texts that don't sound artificial, have grammar mistakes, or sound like english is someone's second language (that would be me hehe). I guess this is also why I am deciding to start this blog, to have a voice and hopefully show that there is still a special spark in human made words.
 
-## The Mars Rover Connection
+I intend to be transparent, so I will let you know in the footnotes whether there was any AI involved on the writing process of any specific post in this blog.
 
-The name "Curiosity Coder" isn't just cute wordplay. NASA's Curiosity Rover embodies everything I love about engineering: methodical exploration, pushing boundaries, and the willingness to venture into unknown territory with carefully designed tools.
+## Why curiosity coder?
 
-Just like Curiosity analyzes Martian soil samples, I want to dig into the technical details that make our digital world work—and share what I find.
+I have always enjoyed any topics related to astronomy/physics. There is a Mars Rover that has been exploring Mars since 2012, called Curiosity. Curiosity Coder sounds like Curiosity Rover. That's it, nothing fancy.
 
-## Let's Explore Together
-
-Whether you're a fellow engineer, a science enthusiast, or just someone who loves learning new things, welcome aboard! The journey of discovery is always better with companions.
-
-Ready to see what we can discover together?
-
----
-
-*Next up: I'm planning a deep dive into how biological neural networks inspired artificial ones. Stay tuned!*
+So, hello world. Join me in exploring my mind through this space.
