@@ -1,10 +1,53 @@
 baseURL = 'https://curiositycoder.dev/'
-languageCode = 'en-us'
 title = 'Curiosity Coder'
 theme = 'PaperMod'
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+    languageCode = 'en-us'
+    contentDir = 'content'
+    title = 'Curiosity Coder'
+
+  [languages.es]
+    languageName = 'Español'
+    weight = 2
+    languageCode = 'es'
+    contentDir = 'content'
+    title = 'Curiosity Coder'
+
+    [languages.es.params]
+      description = "El viaje de un ingeniero de software impulsado por la curiosidad"
+
+    [languages.es.params.homeInfoParams]
+      Title = "Bienvenido a Curiosity Coder"
+      Content = "Explorando la intersección de ingeniería de software, biología, tecnología y curiosidad humana."
+
+    [[languages.es.menus.main]]
+      identifier = "about"
+      name = "Sobre Mí"
+      url = "/about/"
+      weight = 10
+
+    [[languages.es.menus.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/posts/"
+      weight = 20
+
+    [[languages.es.menus.main]]
+      identifier = "tags"
+      name = "Etiquetas"
+      url = "/tags/"
+      weight = 30
+
 [params]
 author = "Juan Carranza"
+displayFullLangName = true
 description = "A software engineer's journey through curiosity-driven exploration"
 keywords = ["AI", "data science", "software engineering", "technology", "Guatemala"]
 DateFormat = "January 2, 2006"
